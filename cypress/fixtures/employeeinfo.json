@@ -1,0 +1,21 @@
+{
+    "firstName": "maha",
+    "middleName": "emad",
+    "lastName": "alqerem",
+    "employeeId":"0763",
+    "id": "201810606",
+    "userName": "ma.123", 
+    "password": "ma123",
+    "nickName": "sssss",
+    "driversLicenseNumber": "1234522",
+    "licenseExpiryDate": "2023-011-02",
+    "maritalStatus": "single",
+    "dateOfBirth": "2000-3-4",
+    "gender": "femal",
+    "jobTitle":"IT Manager",
+    "employmentStatus":"Freelance",
+    "subUnit":"Sales",
+   "supervisor":""
+
+
+  }
